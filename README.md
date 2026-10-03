@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of metric-void/flarum-ext-magic-fonts.** Not for installation: use [Packagist](https://packagist.org/packages/metric-void/flarum-ext-magic-fonts) or the [upstream repository](https://github.com/Metric-Void/flarum-ext-magic-fonts).
 
-**0** versions archived · Latest: [`v1.2.1`](https://github.com/flarchive/metric-void-flarum-ext-magic-fonts/tree/archive/v1.2.1) · Flarum: `>=0.1.0-beta.12 <0.1.0-beta.14`
+**4** versions archived · Latest: [`v1.2.1`](https://github.com/flarchive/metric-void-flarum-ext-magic-fonts/tree/archive/v1.2.1) · Flarum: `>=0.1.0-beta.12 <0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2020-05-23 | `>=0.1.0-beta.12 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/metric-void-flarum-ext-magic-fonts/tree/archive/v1.0.0) |
+| `v1.1.0` | 2020-05-23 | `>=0.1.0-beta.12 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/metric-void-flarum-ext-magic-fonts/tree/archive/v1.1.0) |
+| `v1.2.0` | 2020-05-24 | `>=0.1.0-beta.12 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/metric-void-flarum-ext-magic-fonts/tree/archive/v1.2.0) |
+| `v1.2.1` | 2020-05-25 | `>=0.1.0-beta.12 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/metric-void-flarum-ext-magic-fonts/tree/archive/v1.2.1) |
 
 Catalog entry: [packages/metric-void-flarum-ext-magic-fonts.json](https://github.com/flarchive/archive-index/blob/main/packages/metric-void-flarum-ext-magic-fonts.json)
 
